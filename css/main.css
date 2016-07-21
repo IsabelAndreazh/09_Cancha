@@ -1,0 +1,16 @@
+.cancha{
+	background: #209040;
+	width:700px;
+	height:400px; 
+}
+.n{
+	border:white solid 2px;
+	width:600px;
+	height:300px; 
+	/*margin: 70px 70px 90px 30px;*/
+	padding-top: 40px;
+}
+.centro{
+	border-radius: 180px;
+	border:white solid 2px;
+}

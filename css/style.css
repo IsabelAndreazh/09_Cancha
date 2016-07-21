@@ -1,0 +1,52 @@
+.cancha{
+	background: #209040;
+	padding: 50px;
+	overflow: auto;
+	width: 700px;
+}
+.n{
+	border:white solid 2px;
+	height:300px; 
+	padding: 40px;
+
+
+}
+.centro{
+	border-radius: 180px;
+	border:white solid 2px;
+	width: 150px;
+	height: 150px;
+	position:absolute;
+	left: 300px;
+	bottom: 350px;
+}
+.porteria{
+	position: absolute;
+	border:white solid 2px;
+	display: inline-block;
+	width: 150px;
+	height: 300px;
+}
+#izq{
+	left:58px;
+
+}
+#der{
+	right: 523px;
+}
+.b1{
+	position: relative;
+	left:480px;
+	top: 280px;
+}
+.b2{
+	position: relative;
+	 top:5px;
+	 left: 280px;
+
+}
+.b3{
+	position: relative;
+	left:100px;
+
+}
